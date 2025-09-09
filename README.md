@@ -113,7 +113,7 @@ Despite improved optimizer and scheduler choices, results were very **noisy** du
 
 - Datasets: Kaggle, various Indian public image sets.
 - Model: PyTorch framework, Kaggle kernel recipes.
-- Code indexed by notebook cell for traceability.[attached_file:1]
+- Code indexed by notebook cell for traceability.
 
 ---
 
