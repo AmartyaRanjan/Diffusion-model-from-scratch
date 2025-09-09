@@ -6,9 +6,9 @@ Generate unique Indian-inspired NFT images using deep learning diffusion and VAE
 
 ## 🚀 Overview
 
-- **Goal:** Build and train a generative model to create Indian-themed NFT images using diffusion techniques.[attached_file:1]
-- **Datasets:** Over 21,000 images from Indian monuments, personalities, art, currency, food, and more.[attached_file:1]
-- **Status:** Training partially completed; model outputs remain noisy due to time and hardware constraints (see results).[attached_image:2]
+- **Goal:** Build and train a generative model to create Indian-themed NFT images using diffusion techniques.
+- **Datasets:** Over 21,000 images from Indian monuments, personalities, art, currency, food, and more.
+- **Status:** Training partially completed; model outputs remain noisy due to time and hardware constraints (see results).
 
 ---
 
