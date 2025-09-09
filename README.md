@@ -105,6 +105,7 @@ Despite improved optimizer and scheduler choices, results were very **noisy** du
 3. Run notebook cells in order.
 4. Use `pip install torch torchvision tqdm` as needed.
 5. Strongly recommended: Run on a GPU-enabled machine.
+6. The datasets are named in the notebook, refer kaggle datasets for the datasets.
 
 ---
 
